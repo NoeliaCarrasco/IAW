@@ -1,0 +1,50 @@
+#texto{
+     width:30%;
+    height:85%;
+     margin-top:5px;
+    float:left;
+}
+
+#informacion{
+    width:68%;
+    height:85%;
+    margin-top:5px;
+    float:right;
+    padding-left:10px;
+    padding-right: 10px;
+    background-color:white;
+}
+
+h2{
+    background-color: aquamarine;
+}
+
+h4{
+    
+    background-color: cadetblue;
+}
+
+#uno{
+    
+    background-color: coral;
+}
+
+#dos{
+    
+    color: crimson;
+}
+
+#tres{
+    
+    color: crimson;
+}
+
+#cuatro{
+    
+    color: crimson;
+}
+
+#cinco{
+    
+    color: crimson;
+}
